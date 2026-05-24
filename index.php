@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>CANTINHO</title>
+</head>
+
+    <style>
+        h1 {
+            color: red;
+        }
+        texto {
+            color: green;
+        }
+        .top {
+          background-color: #191970;
+          justify-content: center;
+          background-size: cover;
+          background-attachment: fixed;
+        }
+    </style>
+
+<body class="top">
+
+<h1>OLA MUNDO, TOME CUIDADO COM O CANTINHO</h1> <br>
+<texto> <p style="font-size: 40px;"> esse é um saite do cantinho <br> feito no bloco de notas </p> </texto>
+</body>
+<img src="1.png" width="400">
+<a href="https://www.pudim.com.br/">minha inspiração</a>
+
+</html>
